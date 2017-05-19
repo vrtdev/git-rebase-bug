@@ -1,6 +1,7 @@
 initial commit
 
 with
-dummy text
+dummy text with changes
 add extra
 text
+and more text
